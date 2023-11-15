@@ -4,6 +4,8 @@
 - Phone: (408) 402-2305
 - Location: Campbell, CA
 
+
+
 ## Summary
 
 Motivated and detail-oriented full-stack developer with experience in both front-end and back-end technologies seeking a challenging role to enhance my skills and contribute to impactful projects.
@@ -24,6 +26,11 @@ Motivated and detail-oriented full-stack developer with experience in both front
 - Accessibility
 
 ## Training & Certificates
+
+### Calbright College - [CRM](https://www.calbright.org/programs/crm/)
+- Salesforce CRM Administrator
+  - Certificate in progress • In Progress
+
 
 ### Udemy
 
@@ -63,6 +70,7 @@ Motivated and detail-oriented full-stack developer with experience in both front
   - Additional courses in Web Dev, Graphic Design, Child Development, Misc.
 
 - **San Jose State**, San Jose, CA
+  - Psychology Major (no degree)
   - Coursework in Psychology, Child Development & General Ed.
 
 - **Grossmont College**, La Mesa, CA
