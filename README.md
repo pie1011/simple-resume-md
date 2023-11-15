@@ -4,7 +4,25 @@
 - Phone: (408) 402-2305
 - Location: Campbell, CA
 
-
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#technical-skill-highlights">Technical Skill Highlights</a></li>
+    <li><a href="#training-and-certificates">Training and Certificates</a>
+      <ul>
+        <li><a href="#udemy">Udemy</a></li>
+        <li><a href="#codecademycom">Codecademy.com</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
 ## Summary
 
@@ -27,7 +45,7 @@ Motivated and detail-oriented full-stack developer with experience in both front
 
 ## Training & Certificates
 
-### Calbright College - [CRM](https://www.calbright.org/programs/crm/)
+### Calbright College - [CRM Program](https://www.calbright.org/programs/crm/)
 - Salesforce CRM Administrator
   - Certificate in progress • In Progress
 
